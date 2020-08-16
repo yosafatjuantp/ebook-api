@@ -1,7 +1,6 @@
 <?php
 
 namespace App\Http\Controllers;
-
 use App\Http\Controllers\Controller;
 
 class AuthController extends Controller {
@@ -11,7 +10,7 @@ class AuthController extends Controller {
             "nis" => 3103118142,
             "name" => "Yosafat Juan Timotius Prasetya",
             "gender" => "Laki-laki",
-            "phone" => 081316516200,
+            "phone" => 18316516200,
             "class" => "XII RPL 4"
         ];
     }
